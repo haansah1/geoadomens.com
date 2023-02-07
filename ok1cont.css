@@ -114,7 +114,7 @@ h1{
     min-height:90vh;
     border-bottom-right-radius:100px;
     border-bottom-left-radius:100px;
-    background:url(/images/worker2.jpg) center/cover;
+    background:url(./images/worker2.jpg) center/cover;
     background-attachment: fixed;
     transition:all .5s linear;
     width:100vw;

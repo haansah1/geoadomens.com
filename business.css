@@ -19,8 +19,8 @@
 }
 .whole{
     padding:20px;
-    /* background:  linear-gradient(to bottom,rgba(0,0,0,1), rgba(0,0,0,0.75)), url(/images/Untitled\ design.jpg) center/cover ; */
-    /* background:  url(/images/Untitled\ design.jpg) center/cover ; */
+    background:  linear-gradient(to bottom,rgba(0,0,0,1), rgba(0,0,0,0.55)), url(./images/build1.jpg) center/cover ;
+    /* background:  url(./images/build3.jpg) center/cover ; */
     background-attachment: fixed;
     display:grid;
     flex-wrap: wrap;
